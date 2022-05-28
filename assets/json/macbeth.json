@@ -1,0 +1,78 @@
+[
+	[
+		{
+			"speaker" : "duncan",
+			"dialog" : "What bloody man is that? He can report, As seemeth by his plight, of the revolt The newest state.", 
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "malcolm",
+			"dialog" : "This is the sergeant Who like a good and hardy soldier fought Gainst my captivity. Hail, brave friend! Say to the king the knowledge of the broil as thou didst leave it.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Doubtful it stood; As two spent swimmers, that do cling together And choke their art. The merciless Macdonwald-- Worthy to be a rebel, for to that The multiplying villanies of nature Till he faced the slave; And fix'd his head upon our battlements.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker": "duncan",
+			"dialog" : "O valiant cousin! Worthy gentleman!",
+			"newSpeaker": "true"
+		}, 
+		{
+			"speaker": "sergeant",
+			"dialog": "As whence the sun 'gins his reflection Shipwrecking storms and direful thunders break, So from that spring whence comfort seem'd to come Discomfort swells. Mark, king of Scotland, No sooner justice had with valour arm'd", 
+			"newSpeaker": true
+		}, 
+		{
+			"speaker": "sergeant",
+			"dialog": " Compell'd these skipping kerns to trust their heels, But the Norweyan lord surveying vantage, With furbish'd arms and new supplies of men Began a fresh assault.",
+		}, 
+		{
+			"speaker": "duncan", 
+			"dialog": "Dismay'd not this Our captains, Macbeth and Banquo?",
+			"newSpeaker": true
+		}, 
+		{
+			"speaker": "sergeant",
+			"dialog": "Yes; As sparrows eagles, or the hare the lion. If I say sooth, I must report they were As cannons overcharged with double cracks, so the Doubly redoubled strokes upon the foe Except they meant to bathe in reeking wounds", 
+			"newSpeaker": true 
+		}, 
+		{
+			"speaker": "duncan",
+			"dialog": "So well thy words become thee as thy wounds; They smack of honour both. Go get him surgeons Who comes here?", 
+			"newSpeaker": true 
+		}, 
+		{
+			"speaker": "malcolm",
+			"dialog": "The worthy thane of Ross.",
+			"newSpeaker": true			
+		}, 
+		{
+			"speaker": "lennox",
+			"dialog": "What a haste looks through his eyes! So should he look That seems to speak things strange.",
+			"newSpeaker": true
+		},
+		{
+			"speaker": "ross", 
+			"dialog": "That now Sweno, the Norways' king, craves composition: Nor would we deign him burial of his men Till he disbursed at Saint Colme's inch Ten thousand dollars to our general use.",
+			"newSpeaker": true 
+		}, 
+		{
+			"speaker": "duncan", 
+			"dialog": "No more that thane of Cawdor shall deceive Our bosom interest: go pronounce his present death, And with his former title greet Macbeth.",
+			"newSpeaker": true 
+		}, 
+		{
+			"speaker": "ross", 
+			"dialog": "I'll see it done.",
+			"newSpeaker": true 
+		}, 
+		{
+			"speaker": "duncan", 
+			"dialog": "What he hath lost noble Macbeth hath won.", 
+			"newSpeaker": true 
+		}
+	] 
+]

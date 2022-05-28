@@ -1,8 +1,8 @@
 [
 	[
 		{
-			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"speaker" : "neptune",
+			"dialog" : "Do'h. Nuts! Mmm donuts",
 			"newSpeaker" : "true"
 		},
 		{
@@ -53,6 +53,11 @@
 		{	
 			"speaker" : "minerva",
 			"dialog" : "If, then, the gods now mean that Ulysses should get home, we should first send Mercury to the Ogygian island to tell Calypso that we have made up our minds and that he is to return.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "jove",
+			"dialog" : "Welcome to the Hotel California. Such a lovely place.",
 			"newSpeaker" : "true"
 		}
 	]
